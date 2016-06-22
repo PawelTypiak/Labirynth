@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBoki" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAEAAAAAEAAAIAAAAAAAAAAAAAAgAAAgAAQA=</HashCode>
+      <FileName>Boki.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBonus" Collapsed="true">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgAAAAAAAAAAAEgAAKAAAAAAAwAAAAAAAAAAAAAUA=</HashCode>
+      <FileName>Bonus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFigura" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAABAAAAAAAkQAAAAAAAAAAAAAAgAAAQAgAAQA=</HashCode>
+      <FileName>Figura.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CKulka" Collapsed="true">
+    <Position X="5.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAgAgAAQA=</HashCode>
+      <FileName>Kulka.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="openGLview" Collapsed="true">
+    <Position X="3.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAggAICACAQEAkAgQACIAAAQECARAEAZAABACAAQg=</HashCode>
+      <FileName>openGLview.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPodloga" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAEAAAAAEABAAAAAAAAAAAAAgAAAAAAgAAQA=</HashCode>
+      <FileName>Podloga.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPodstawa" Collapsed="true">
+    <Position X="8.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAIAAAAgAAQA=</HashCode>
+      <FileName>Podstawa.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoziom1" Collapsed="true">
+    <Position X="0.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Poziom1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoziom2" Collapsed="true">
+    <Position X="2.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Poziom2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoziom3" Collapsed="true">
+    <Position X="4.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Poziom3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoziom4" Collapsed="true">
+    <Position X="6.5" Y="9" Width="1.5" />
+    <InheritanceLine Type="CPoziomy" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="5.062" Y="7.312" />
+        <Point X="5.062" Y="8.2" />
+        <Point X="7.25" Y="8.2" />
+        <Point X="7.25" Y="9" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Poziom4.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoziomy" Collapsed="true">
+    <Position X="4.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAUAAAAAAAABAACgAAAIAAAAAAEAAACAAAAAQA=</HashCode>
+      <FileName>Poziomy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSciany" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAQAgAAAAAAAAgAAQA=</HashCode>
+      <FileName>Sciany.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSfera" Collapsed="true">
+    <Position X="3" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAQA=</HashCode>
+      <FileName>Sfera.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CStozek" Collapsed="true">
+    <Position X="4.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAgAAUA=</HashCode>
+      <FileName>Stozek.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
